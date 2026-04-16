@@ -113,6 +113,13 @@ Once the user connects and submits credentials:
      * Captured credentials
 
 ---
+## Deauth in Action
+<img width="1746" height="926" alt="image" src="https://github.com/user-attachments/assets/5c84fc78-3d6b-465f-b323-527e824b102c" />
+<img width="1752" height="924" alt="image" src="https://github.com/user-attachments/assets/482add25-7fb2-44eb-bf43-2455998d41fc" />
+<img width="1745" height="925" alt="image" src="https://github.com/user-attachments/assets/3a010544-149a-442d-bdef-a60e7f6df106" />
+<img width="1749" height="921" alt="image" src="https://github.com/user-attachments/assets/3d4ead5d-c4ea-49a9-8b64-2069c8b12ba7" />
+
+---
 
 ## 🛡 Mitigation & Defense
 
